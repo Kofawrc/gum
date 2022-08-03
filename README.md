@@ -23,8 +23,6 @@ The above example is running from a single shell script ([source](./examples/dem
 Gum provides highly configurable, ready-to-use utilities to help you write
 useful shell scripts and dotfiles aliases with just a few lines of code.
 
-Let's build a simple script to help you write [Conventional
-Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) for your
 dotfiles.
 
 Start with a `#!/bin/sh`.
